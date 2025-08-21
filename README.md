@@ -51,4 +51,8 @@ Customer segmentation for marketing campaigns
 
 Personalized offers & loyalty programs
 
+Streamlit App.
+Here is a link to Streamlit app https://customer-clustering-f9vyxrssbqea8k4wjln8a8.streamlit.app/
+
+
 Identifying high-value customers
