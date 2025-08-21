@@ -23,3 +23,32 @@ It also includes a **Streamlit web app** for interactive visualization.
 git clone https://github.com/abdurrahmantaherr/customer-clustering.git
 cd customer-clustering
 
+📌 Requirements
+
+Main libraries used:
+
+pandas
+
+numpy
+
+matplotlib
+
+seaborn
+
+scikit-learn
+
+streamlit
+
+📈 Results
+
+Customers are segmented into clusters such as High Income–High Spending, Low Income–Low Spending, etc.
+
+These clusters can be used for targeted marketing strategies.
+
+🎯 Applications
+
+Customer segmentation for marketing campaigns
+
+Personalized offers & loyalty programs
+
+Identifying high-value customers
